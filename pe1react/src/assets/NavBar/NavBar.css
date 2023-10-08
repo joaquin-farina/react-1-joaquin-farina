@@ -1,0 +1,19 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+    background-color: #2E4F4F;
+}
+
+li {
+    display: inline-block;
+    margin: 10px;
+    cursor: pointer;
+    color: #fff;
+    font-size: 25px; 
+}
+
+h1 {
+   color: #fff; 
+}
